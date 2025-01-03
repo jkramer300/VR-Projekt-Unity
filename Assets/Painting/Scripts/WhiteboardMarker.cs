@@ -4,6 +4,7 @@ using System.Collections;
 using System.Linq;
 using Unity.VisualScripting;
 using UnityEditor;
+using System.Runtime.CompilerServices;
 
 public class WhiteboardMarker : MonoBehaviour
 {
