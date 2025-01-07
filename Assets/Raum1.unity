@@ -20,13 +20,13 @@ RenderSettings:
   m_FogDensity: 0.01
   m_LinearFogStart: 0
   m_LinearFogEnd: 300
-  m_AmbientSkyColor: {r: 0.8254717, g: 0.93455374, b: 1, a: 1}
-  m_AmbientEquatorColor: {r: 0.8207547, g: 0.8207547, b: 0.8207547, a: 1}
-  m_AmbientGroundColor: {r: 0.5471698, g: 0.5471698, b: 0.5471698, a: 1}
+  m_AmbientSkyColor: {r: 0.6650944, g: 0.9866268, b: 1, a: 1}
+  m_AmbientEquatorColor: {r: 0.8396226, g: 0.8396226, b: 0.8396226, a: 1}
+  m_AmbientGroundColor: {r: 0.5283019, g: 0.5283019, b: 0.5283019, a: 1}
   m_AmbientIntensity: 1
   m_AmbientMode: 1
-  m_SubtractiveShadowColor: {r: 0.4528302, g: 0.4528302, b: 0.4528302, a: 1}
-  m_SkyboxMaterial: {fileID: 2100000, guid: a547031fbeb132b47aef70998d46d7cb, type: 2}
+  m_SubtractiveShadowColor: {r: 0.4339623, g: 0.4339623, b: 0.4339623, a: 1}
+  m_SkyboxMaterial: {fileID: 2100000, guid: d827221eb4485964ea6e9c77da831c78, type: 2}
   m_HaloStrength: 0.5
   m_FlareStrength: 1
   m_FlareFadeSpeed: 3
@@ -303,7 +303,7 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: 249026a0d7d48694a9aa80fae45951b5, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 4bfbc2516cd1a6341a8e0f9039548705, type: 2}
+      objectReference: {fileID: 2100000, guid: 985e0d7e931521f4c9263b7973d7c804, type: 2}
     - target: {fileID: 919132149155446097, guid: 249026a0d7d48694a9aa80fae45951b5, type: 3}
       propertyPath: m_Name
       value: Fenster (4)
@@ -1478,7 +1478,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: a5aff10d822d42f49b41199771a7eeb8, type: 3}
       propertyPath: m_StaticEditorFlags
-      value: 0
+      value: 126
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2079,7 +2079,7 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: 249026a0d7d48694a9aa80fae45951b5, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 4bfbc2516cd1a6341a8e0f9039548705, type: 2}
+      objectReference: {fileID: 2100000, guid: 985e0d7e931521f4c9263b7973d7c804, type: 2}
     - target: {fileID: 919132149155446097, guid: 249026a0d7d48694a9aa80fae45951b5, type: 3}
       propertyPath: m_Name
       value: Fenster (6)
@@ -2156,7 +2156,7 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: 249026a0d7d48694a9aa80fae45951b5, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 4bfbc2516cd1a6341a8e0f9039548705, type: 2}
+      objectReference: {fileID: 2100000, guid: 985e0d7e931521f4c9263b7973d7c804, type: 2}
     - target: {fileID: 919132149155446097, guid: 249026a0d7d48694a9aa80fae45951b5, type: 3}
       propertyPath: m_Name
       value: Fenster (1)
@@ -5054,7 +5054,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!136 &784006278
 CapsuleCollider:
@@ -5141,7 +5141,7 @@ Transform:
   m_GameObject: {fileID: 784006277}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -51.92919, y: 11.656527, z: -54.04}
+  m_LocalPosition: {x: -64.35, y: 11.656527, z: -54.04}
   m_LocalScale: {x: 2, y: 2, z: 2}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -6177,7 +6177,7 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: 249026a0d7d48694a9aa80fae45951b5, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 4bfbc2516cd1a6341a8e0f9039548705, type: 2}
+      objectReference: {fileID: 2100000, guid: 985e0d7e931521f4c9263b7973d7c804, type: 2}
     - target: {fileID: 919132149155446097, guid: 249026a0d7d48694a9aa80fae45951b5, type: 3}
       propertyPath: m_Name
       value: Fenster
@@ -6369,7 +6369,7 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: 249026a0d7d48694a9aa80fae45951b5, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 4bfbc2516cd1a6341a8e0f9039548705, type: 2}
+      objectReference: {fileID: 2100000, guid: 985e0d7e931521f4c9263b7973d7c804, type: 2}
     - target: {fileID: 919132149155446097, guid: 249026a0d7d48694a9aa80fae45951b5, type: 3}
       propertyPath: m_Name
       value: Fenster (2)
@@ -6618,7 +6618,7 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: 249026a0d7d48694a9aa80fae45951b5, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 4bfbc2516cd1a6341a8e0f9039548705, type: 2}
+      objectReference: {fileID: 2100000, guid: 985e0d7e931521f4c9263b7973d7c804, type: 2}
     - target: {fileID: 919132149155446097, guid: 249026a0d7d48694a9aa80fae45951b5, type: 3}
       propertyPath: m_Name
       value: Fenster (3)
@@ -7607,7 +7607,7 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: 249026a0d7d48694a9aa80fae45951b5, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 4bfbc2516cd1a6341a8e0f9039548705, type: 2}
+      objectReference: {fileID: 2100000, guid: 985e0d7e931521f4c9263b7973d7c804, type: 2}
     - target: {fileID: 919132149155446097, guid: 249026a0d7d48694a9aa80fae45951b5, type: 3}
       propertyPath: m_Name
       value: Fenster (7)
@@ -10773,7 +10773,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: a5aff10d822d42f49b41199771a7eeb8, type: 3}
       propertyPath: m_StaticEditorFlags
-      value: 0
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -11202,7 +11202,7 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: 249026a0d7d48694a9aa80fae45951b5, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 4bfbc2516cd1a6341a8e0f9039548705, type: 2}
+      objectReference: {fileID: 2100000, guid: 985e0d7e931521f4c9263b7973d7c804, type: 2}
     - target: {fileID: 919132149155446097, guid: 249026a0d7d48694a9aa80fae45951b5, type: 3}
       propertyPath: m_Name
       value: Fenster (5)
